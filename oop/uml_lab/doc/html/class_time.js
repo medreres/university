@@ -1,0 +1,26 @@
+var class_time =
+[
+    [ "TimeZone", "struct_time_1_1_time_zone.html", "struct_time_1_1_time_zone" ],
+    [ "Time", "class_time.html#a0eb767f7604fb3f36dab180a6a606e5a", null ],
+    [ "~Time", "class_time.html#a1e92dbe963fa3cdd6bea207680f5f6d1", null ],
+    [ "addHours", "class_time.html#a4fa662d62247adb3d2a82ec742149cc8", null ],
+    [ "addMinutes", "class_time.html#a17a900610dd7f90dcbb8de9ef2045112", null ],
+    [ "addSeconds", "class_time.html#aa63100cb36f1ef2b6dbb05ca85223efb", null ],
+    [ "getTimeInSeconds", "class_time.html#a28ade896202e75ce9c347d52717242d1", null ],
+    [ "input", "class_time.html#ac8959ee7edffa0747e76aedf3e2c863e", null ],
+    [ "operator+", "class_time.html#affd07723baea79e855d58e12b42a5b8f", null ],
+    [ "operator-", "class_time.html#a6dd8ed6e59498e1f98f3e9bac13d43d7", null ],
+    [ "output", "class_time.html#a87e94cfe42bbb91354fcf6611c6a43fe", null ],
+    [ "readFromFile", "class_time.html#ae93166bf490fe633260b1e892f328cf3", null ],
+    [ "saveToFile", "class_time.html#a58f01b7e4537046d52c8dd90f1da6565", null ],
+    [ "setBySeconds", "class_time.html#a52188b7bdd54eea8f0a6cfda97ca28ba", null ],
+    [ "setHour", "class_time.html#a2da14df47d5a04ac077f8ca0105fbbe1", null ],
+    [ "setMinute", "class_time.html#aa54b4d128c53b214e231c0bd80d3839f", null ],
+    [ "setSecond", "class_time.html#a27c6b7da6e1f7824a19b7e89ad27ca8a", null ],
+    [ "setTimeZone", "class_time.html#ab6808051a315d846cf57d8b709a1478a", null ],
+    [ "substractHours", "class_time.html#ac53d0c873f5b751c68f63d0bdd4bc2dc", null ],
+    [ "substractMinutes", "class_time.html#a2066d8c11d4473e1dcbd7bd9f467440c", null ],
+    [ "substractSeconds", "class_time.html#a4767768c50f65080dadba723da05ae38", null ],
+    [ "operator<<", "class_time.html#a6e61da5f5763bdbaaf1069d3c3b053cf", null ],
+    [ "operator>>", "class_time.html#ae961534f48fbd6548abce423eafa484c", null ]
+];
