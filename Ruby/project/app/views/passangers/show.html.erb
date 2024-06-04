@@ -1,0 +1,27 @@
+
+<p style="color: green"><%= notice %></p>
+
+<div class='container'>
+<table class='table'>
+  <thead>
+    <tr>
+      <th><strong>First name:</strong></th>
+      <th><strong>Last name:</strong></th>
+      <th><strong>Items count:</strong></th>
+      <th><strong>Items weight:</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th><%= @passanger.first_name %></th>
+      <th><%= @passanger.last_name %></th>
+      <th><%= @passanger.items_count %></th>
+      <th><%= @passanger.items_weight %></th>
+      <th><%= link_to "Edit this passanger", edit_passanger_path(@passanger), class: "btn btn-secondary" %></th> 
+      <th><%= link_to "Back to passangers", passangers_path, class: "btn btn-secondary" %></th>
+      <th><%= button_to "Destroy this passanger", @passanger, method: :delete, class: "btn btn-secondary" %></th>
+    </tr>
+  </tbody>
+</table>
+  
+</div>
